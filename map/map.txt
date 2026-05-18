@@ -1,0 +1,13 @@
+The map is used for transforming each value ina a given sequence by appling a function
+it return a map object with result.
+
+Filter function: filter function construct and ittrater from elements of an ittrable
+for which a function return true , Filter element of an ittrable best on condition function
+returning true or false.
+
+Reduce function: reduce function found in the func tools modules apply a function to arguments
+commulatrablity to the iteams of ittrable from left to right to reduce it to a single value.
+
+Generator is a simple way to create ittrater instate of return .Generator is yield keyword 
+
+An ittrater is a object that allowes us to transverbs or access element one by one.
